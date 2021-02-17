@@ -1,5 +1,5 @@
 {
-  "name": "svelte-app",
+  "name": "git-test-2",
   "version": "1.0.0",
   "scripts": {
     "build": "rollup -c",
